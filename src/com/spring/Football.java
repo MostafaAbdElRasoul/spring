@@ -1,5 +1,6 @@
+package com.spring;
 
-public class Footaball implements Sport{
+public class Football implements Sport{
 
 	@Override
 	public void start() {
